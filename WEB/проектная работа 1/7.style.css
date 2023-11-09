@@ -1,0 +1,22 @@
+header {
+    font-weight: bolder;
+    font-size: 50px; /*размер текста*/
+}
+main{
+    font-size: 20px;
+    height: 50%;
+display: flex;
+justify-content:center ;
+}
+footer {
+    font-family: "Impact";
+    height: 200px; /*высота*/
+    font-size: 30px; /*размер текста*/
+}
+.container {
+width: 80%;
+height: 100%;
+}
+.block{
+    background: conic-gradient(#1f1ccf, #ff9800);
+}

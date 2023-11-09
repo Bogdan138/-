@@ -1,0 +1,42 @@
+header {
+    background-image: url(https://proprikol.ru/wp-content/uploads/2019/08/kartinki-na-zadnij-fon-6.jpg;);
+    font-weight: bolder;
+    height: 200px; /*высота*/
+    color: rgb(38, 59, 77); /*цвет текста*/
+    font-size: 30px; /*размер текста*/
+}
+main{
+    background-color: rgb(255, 238, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    height: 50%;
+display: flex;
+justify-content:center ;
+}
+footer {
+    color: rgb(245, 0, 0);
+    font-family: "Impact";
+    height: 200px; /*высота*/
+    color: rgb(63, 0, 14); /*цвет текста*/
+    font-size: 30px; /*размер текста*/
+}
+.left {
+        background: conic-gradient(from 120deg at 100% 200%, rgb(255, 0, 144), rgb(0, 191, 255));
+    
+float: left;
+width: 50%;
+height: 50%;
+}
+.right {
+    background-color: rgb(255, 0, 0);
+float: right;
+width: 50%;
+height: 100%;
+}
+.container {
+width: 80%;
+height: 100%;
+}
+.f_left {
+    width: 70%;
+}
